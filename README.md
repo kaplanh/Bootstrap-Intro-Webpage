@@ -1,11 +1,8 @@
 
 
-
-
-
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Bootstrap-Intro-Webpage</h1></summary>
+    <summary><h1 style="display: inline-block">Bootstrap Website Example</h1></summary>
   </ul>
 </div>
 
@@ -20,9 +17,11 @@
   <tbody>
   <tr>
     <td> 
-      <li> Bootstrap  
+      <li> Bootstrap
       <li> Css
       <li> Html
+      <li> cdnjs/fontawesome
+      <li> animista
     </td>
     <td>  <h4>Once you clone the project</h4>  
       
@@ -30,12 +29,12 @@
 
     
    </td>
-    <td> <li> <a href="https://github.com/AliDurul" target="_blank">Take a look at my other projects</a> <li> <a href="https://www.linkedin.com/in/ali-durul/" target="_blank">Visit me on Linkedin</a> 
+    <td> <li> <a href="https://github.com/kaplanh" target="_blank">Take a look at my other projects</a> <li> <a href="inkedin.com/in/kaplan-h/" target="_blank">Visit me on Linkedin</a> 
   </tr>
   <tr>
     <td colspan="3"><h3>What is this project about ?</h3> 
 <p>
-In this project user can get any current crypto coin detail from certain api-server. After searching crypto money user able to delete the cart.
+This website created by bootstrap as a example.
 </p>
     </td>
   </tr>
@@ -51,9 +50,10 @@ In this project user can get any current crypto coin detail from certain api-ser
 </div>
 
 
-[Live Link](https://bootstrap-intro-webpage.vercel.app)
+[Live Link](https://kaplanh.github.io/Bootstrap-Web-Page/)
 
-![introbootstrap](https://github.com/AliDurul/Bootstrap-Intro-Webpage/assets/80897590/9794db23-fffe-43c1-82bd-dac834b6cde3)
+
+![Bootstrap web page](https://github.com/kaplanh/Bootstrap-Web-Page/assets/101884444/c895033d-f7ad-4757-8600-d7f92e746321)
 
 <div id="user-content-toc">
   <ul align="left">
@@ -63,3 +63,5 @@ In this project user can get any current crypto coin detail from certain api-ser
 I value your feedback and suggestions. If you have any comments, questions, or ideas for improvement regarding this project or any of my other projects, please don't hesitate to reach out.<br>
 I'm always open to collaboration and welcome the opportunity to work on exciting projects together.<br>
 Thank you for visiting my project. I hope you have a wonderful experience exploring it, and I look forward to connecting with you soon!
+
+
