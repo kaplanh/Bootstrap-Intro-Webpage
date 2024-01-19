@@ -21,7 +21,6 @@
       <li> Css
       <li> Html
       <li> cdnjs/fontawesome
-      <li> animista
     </td>
     <td>  <h4>Once you clone the project</h4>  
       
